@@ -50,6 +50,18 @@ Ensure you have the following dependencies installed:
 - Matplotlib
 - Scikit-learn
 
+- Impute a categorical missing value
+- Impute a numerical missing value
+- Identify a scaling problem visually
+- Apply 2 methods of scaling to treat outliers
+- Convert a categorical variable to number(s)
+- Generate 2 regression models with MAE and R2
+- Compare both models to identify which is better
+- Fit a classification model
+- Discuss confusion matrix
+- Discuss accuracy metric
+
+
 You can install the required libraries using the following command:
 
 ```bash
